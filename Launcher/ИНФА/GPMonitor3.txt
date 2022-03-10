@@ -1,0 +1,18 @@
+Подключение к 192.168.0.90
+#32770
+001A01CA
+
+ОК
+Button
+001F0200
+
+Ожидать
+Button
+001F012C
+
+Стоп
+Button
+001F012C
+
+
+C:\GPMonitor3\GPMonitor3.exe

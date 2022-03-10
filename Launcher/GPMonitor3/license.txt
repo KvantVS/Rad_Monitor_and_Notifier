@@ -1,0 +1,225 @@
+ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ (РУССКАЯ ВЕРСИЯ)
+
+
+GammaPost3 Monitoring Software v3.1.05
+======================================
+
+ПОЖАЛУЙСТА, ПРОЧИТАЙТЕ ВНИМАТЕЛЬНО
+
+1. О программе
+
+Приложение GammaPost Monitor 3 Software было разработано
+компанией "СОЛО Лтд", далее Разработчик, для осуществления
+управления электронным оборудованием ГаммаПост (Коргаушы)
+поколения 3.
+
+Все права на распространение и коммерческое использование данного
+программного обеспечения принадлежат компании "СОЛО Лтд".
+
+Эксклюзивные авторские права принадлежат Дмитрию Петренко.
+
+Copyright (c) 2004-2011 by SOLO Ltd.
+Copyright (c) 2004-2011 by Dmitriy Petrenko
+
+2. Системные требования
+
+Приложение работает под управлением ОС Windows XP или выше.
+
+Приложение требует предустановки пакета Microsoft Office 2000
+или выше.
+
+Приложение также может требовать наличия видеокодеков от
+стороннего производителя для того, чтобы иметь возможность
+записывать и воспроизводить видеоизображение.
+
+Рекомендуемое аппаратное обеспечение: процессор Pentium IV
+или выше, ОЗУ 512M или больше, дисковое пространство 40Гб
+или больше, видеокарта с ОЗУ 64Мб или больше, сетевая карта
+Ethernet 10М/100М, последовательный порт COM.
+
+3. Лицензионное соглашение
+
+Это Соглашение на использование GammaPost3 Monitoring Software.
+
+Вы не имеете права дизассемблировать или подвергать реинжинирингу
+любую часть данного программного обеспечения. Вы не имеете права
+продавать или сдавать в аренду данное программное обеспечение.
+
+Настоящее Соглашение будет незамедлительно и автоматически
+считаться прекращенным без уведомления, если вы не будете
+соблюдать любое положение или условие Соглашения. В случае
+прекращения Соглашения вы соглашаетесь немедленно уничтожить
+данный программный продукт вместе со всеми установленными
+компонентами, предыдущими и новыми версиями, а так же все копии
+и модификации в любой форме.
+
+Автор данного программного обеспечения не может гарантировать
+что оно свободно от программных ошибок или вирусов.
+
+Разработчик может, время от времени, пересматривать и дорабатывать
+данное программное обеспечение. В таком случае, Разработчик не
+имеет обязательств предоставлять вам доработанное программное
+обеспечение.
+
+Пожалуйста, обратите внимание, что программное обеспечение
+GammaPost3 Monitoring Software требует предустановки на ваш
+компьютер следующих лицензионных компонентов сторонних
+производителей:
+
+ - Microsoft Office Web Components 9, (C) Microsoft Corp.
+ - Microsoft MPEG-4 Video Codec Pack, (C) Microsoft Corp.
+ - Microsoft GDI Plus, (C) Microsoft Corp.
+ - Microsoft Database Access Objects, (C) Microsoft Corp.
+ - Microsoft Hierarchical FlexGrid control, (C) Microsoft Corp.
+ - Microsoft HTML Help Workshop, (C) Microsoft Corp.
+ - AXIS Media Control, (C) Axis Communications
+ - Haru Free PDF Library, (C) Takeshi Kanno
+
+Вы не должны продолжать установку и использование GammaPost3
+Monitoring Software при отсутствии лицензии или легального права
+от соответствующих производителей, резрешающего использование
+указанных выше компонентов.
+
+ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ И ДОКУМЕНТАЦИЯ ПОСТАВЛЯЕТСЯ НА
+УСЛОВИЯХ "КАК ЕСТЬ", СО ВСЕМИ НЕДОСТАТКАМИ И БЕЗ ГАРАНТИЙ
+ЛЮБОГО РОДА, ЯВНЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ, ВКЛЮЧАЯ, НО НЕ
+ОГРАНИЧИВАЯ ПОДРАЗУМЕВАЕМЫЕ ГАРАНТИИ, НЕОБХОДИМЫЕ ПРИ
+ТОРГОВЛЕ, ПРИГОДНОСТЬ (ДЛЯ ОПРЕДЕЛЕННОЙ ЦЕЛИ), СООТВЕТСТВИЕ
+С ОПИСАНИЕМ И ОТСУТСТВИЕ НАРУШЕНИЙ ПАТЕНТНЫХ ПРАВ ТРЕТЬИХ ЛИЦ.
+
+РАЗРАБОТЧИК НИ ПРИ КАКИХ ОБСТОЯТЕЛЬСТВАХ НЕ НЕСЕТ КАКОЙ-ЛИБО
+ОТВЕТСТВЕННОСТИ ЗА ЛЮБОЙ УЩЕРБ, КОТОРЫЙ МОЖЕТ ВОЗНИКНУТЬ В
+СВЯЗИ С ДАННЫМ СОГЛАШЕНИЕМ, ВКЛЮЧАЯ УПУЩЕННУЮ ВЫГОДУ,
+ПРЕКРАЩЕНИЕ ИСПОЛЬЗОВАНИЯ, ПОТЕРЮ ИЛИ ПОВРЕЖДЕНИЕ ДАННЫХ,
+КОСВЕННЫЕ, СЛУЧАЙНЫЕ ИЛИ СПЕЦИАЛЬНО СОЗДАННЫЕ ПОВРЕЖДЕНИЯ
+НЕЗАВИСИМО О ТОГО, ЧТО РАЗРАБОТЧИК БЫЛ ПРЕДУПРЕЖДЕН О
+ВОЗМОЖНОСТИ НАНЕСЕНИЯ ТАКОГО УЩЕРБА.
+
+НИ ПРИ КАКИХ ОБСТОЯТЕЛЬСТВАХ ОБЩАЯ ОТВЕТСТВЕННОСТЬ ЗА УЩЕРБ,
+ПРИЧИНЕННЫЙ РАЗРАБОТЧИКОМ В РЕЗУЛЬТАТЕ ДАННОГО СОГЛАШЕНИЯ,
+НЕ ДОЛЖНА ПРЕВЫШАТЬ В СОВОКУПНОСТИ МИНИМАЛЬНОЙ СУММЫ,
+ПЛАЧЕНОЙ КОРПОРАЦИИ РАЗРАБОТЧИКУ ЛИЦЕНЗИАТОМ ЗА ПРОГРАММНОЕ
+ОБЕСПЕЧЕНИЕ НА УСЛОВИЯХ ЭТОГО СОГЛАШЕНИЯ, КОТОРОЕ ЯВЛЯЕТСЯ
+ПРЕДМЕТОМ И НЕПОСРЕДСТВЕННО ПРИЧИНОЙ ВОЗНИКНОВЕНИЯ ПРЕДМЕТА
+ТРЕБОВАНИЯ.
+
+В случае если любое из положений или условий указанных выше
+будет признано недействительным или не имеющим силы любым
+судом или уполномоченным органом, данное постановление не
+будет иметь силы над оставшимися положениями и условиями.
+
+4. Контактная информация
+
+В случае если у вас есть любые вопросы, пожалуйста обращайтесь
+к Разработчику по электронному адресу info@solo.kz.
+                             
+
+                            *    *    *
+
+
+LICENSE AGREEMENT (ENGLISH VERSION)
+
+
+GammaPost3 Monitoring Software v3.1.05
+======================================
+
+PLEASE READ IT CAREFULLY
+
+1. About
+
+GammaPost Monitor 3 Software has been designed by SOLO Ltd.
+company, hereby referred to as Developer, to provide the
+ability to communicate with 3rd generation of GammaPost
+(Korgaushi) electronic equipment.
+
+All rights for GammaPost Monitor 3 Software redistribution
+and commercial usage belong to SOLO Ltd. company.
+
+Exclusive copy rights belong to Dmitriy Petrenko.
+
+Copyright (c) 2004-2011 by SOLO Ltd.
+Copyright (c) 2004-2011 by Dmitriy Petrenko
+
+2. System requirements
+
+The application requires OS Windows XP or higher.
+
+The application will require Microsoft Excel 2000 or higher to
+be installed to be able to function properly.
+
+The application may also require some 3rd party video codec set
+to be installed to be able to record and play video.
+
+Recommended hardware: processor Pentium IV or higher, 512M RAM or
+more, hard disk space of 40Gb or more, video adapter with onboard
+64Mb RAM or more, network adapter Ethernet 10M/100M, serial port
+COM.
+
+3. License agreement
+
+This is Agreement for the use of GammaPost3 Monitoring Software.
+
+You may not disassemble or reverse engineer any part 
+of this software. You may not rent or lease the software.
+
+This Agreement will immediately and automatically 
+terminate without notice if you fail to comply 
+with any term or condition of this Agreement. You agree 
+upon termination to promptly destroy the Software Product 
+together with all of its component parts, prior and 
+replacement versions, and all copies and modifications 
+thereof in any form.
+
+The Developer of this software does not guarantee that this 
+software is free from bugs or free from viruses.
+
+The Developer may, from time to time, revise or update the 
+Software. In so doing, the Developer incurs no obligation 
+to furnish such revision or updates to you.
+
+Please note that GammaPost3 Monitoring Software requires the
+following 3rd party components to be preinstalled on your PC:
+
+ - Microsoft Office Web Components 9, (C) Microsoft Corp.
+ - Microsoft MPEG-4 Video Codec Pack, (C) Microsoft Corp.
+ - Microsoft GDI Plus, (C) Microsoft Corp.
+ - Microsoft Database Access Objects, (C) Microsoft Corp.
+ - Microsoft Hierarchical FlexGrid control, (C) Microsoft Corp.
+ - Microsoft HTML Help Workshop, (C) Microsoft Corp.
+ - AXIS Media Control, (C) Axis Communications
+ - Haru Free PDF Library, (C) Takeshi Kanno
+
+You must not proceed with the installation or use of GammaPost3
+Monitoring Software as long as you doesn't have the license
+or legal right from the appropriate vendors for the components
+listed above.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, 
+THE SOFTWARE AND DOCUMENTATION ARE PROVIDED "AS IS" AND 
+THE DEVELOPER DISCLAIMS ALL OTHER WARRANTIES AND CONDITIONS, 
+EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, 
+IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A 
+PARTICULAR PURPOSE, CONFORMANCE WITH DESCRIPTION, TITLE 
+AND NON-INFRINGEMENT OF THIRD PARTY RIGHTS
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO 
+EVENT SHALL THE DEVELOPER BE LIABLE FOR ANY DAMAGES WHATSOEVER
+IN CONNECTION WITH THIS AGREEMENT, WHETHER ARISING FROM
+LOSS OF PROFITS, LOSS OF USE, LOSS OR CORRUPTION OF DATA,
+INDIRECT, INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES,
+IRRESPECTIVE OF WHETHER DEVELOPER HAS ADVANCE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES. IN ANY CASE, THE DEVELOPER'S 
+CUMULATIVE AND ENTIRE LIABILITY TO YOU OR ANY OTHER PARTY 
+FOR ANY LOSS OR DAMAGES RESULTING FROM ANY CLAIMS, DEMANDS 
+OR ACTIONS ARISING OUT OF OR RELATING TO THIS AGREEMENT 
+SHALL NOT EXCEED THE PURCHASE PRICE PAID FOR THIS LICENSE. 
+
+Should any term of these terms and conditions be declared 
+void or unenforceable by any court of competent jurisdiction, 
+such declaration shall have no effect on the remaining terms
+hereof.
+
+4. Contacts
+
+Should you have any questions, please don't hesitate to
+contact the Developer at info@solo.kz.

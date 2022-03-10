@@ -1,0 +1,40 @@
+[Version] 
+Signature   = "$Chicago$" 
+AdvancedINF = 2.5, "Your setup subsystem is outdated.  Please install IE 3.01 or greater." 
+Class       = MEDIA 
+  
+[DefaultInstall] 
+CopyFiles  = CopyFiles.DLL 
+UpdateInis = UpdateInis.95 
+MediaType  = Software 
+  
+[DefaultInstall.NT] 
+CopyFiles  = CopyFiles.DLL 
+AddReg     = AddReg.NT 
+MediaType  = Software 
+  
+[DestinationDirs] 
+CopyFiles.DLL        = 11  
+DefaultDestDir       = 11  
+  
+[UpdateInis.95]  
+system.ini, drivers32,, "VIDC.MPG4=mpg4c32.dll" 
+system.ini, drivers32,, "VIDC.MP42=mpg4c32.dll" 
+system.ini, drivers32,, "VIDC.MP43=mpg4c32.dll" 
+  
+[AddReg.NT] 
+HKLM, "SOFTWARE\Microsoft\Windows NT\CurrentVersion\Drivers32", "vidc.mpg4",, "mpg4c32.dll" 
+HKLM, "SOFTWARE\Microsoft\Windows NT\CurrentVersion\Drivers32", "vidc.mp42",, "mpg4c32.dll" 
+HKLM, "SOFTWARE\Microsoft\Windows NT\CurrentVersion\Drivers32", "vidc.mp43",, "mpg4c32.dll" 
+HKLM, "SOFTWARE\Microsoft\Windows NT\CurrentVersion\drivers.desc", "mpg4c32.dll",, "MS MPEG-4 v1,2,3 driver 4.00.0.3688" 
+  
+[SourceDisksNames] 
+1 = "Microsoft MPEG-4 driver installer",mpeg4fix.cab,0 
+  
+[SourceDisksFiles] 
+Mpg4c32.dll = 1 
+
+[CopyFiles.DLL] 
+Mpg4c32.dll,,,33 
+  
+[Strings] 

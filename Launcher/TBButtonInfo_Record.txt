@@ -1,0 +1,18 @@
+  ButInfo:  TBBUTTONINFOW;
+  ButInfoPointer: pointer;
+
+{  butinfo.cbSize;
+  butinfo.dwMask;
+  butinfo.idCommand;
+  butinfo.iImage;
+  butinfo.fsState;
+  butinfo.fsStyle;
+  butinfo.cx;
+  butinfo.lParam;
+  butinfo.pszText;
+  butinfo.cchText;       }
+
+//  ButInfoPointer:=VirtualAllocEx(hP, @ButInfo, SizeOf(TBBUTTONINFOW), MEM_COMMIT, PAGE_READWRITE);
+//  Sendmessage(strtoint(s), TB_GETBUTTON, strtoint(Edit2.text), lParam(ButInfoPointer));
+//  ReadProcessMemory(hP, ButInfoPointer, @ButInfo, SizeOf(TBBUTTONINFOW),ReadCnt);
+//  VirtualFreeEx(hP,ButInfoPointer,SizeOf(TBBUTTONINFOW),MEM_RELEASE);
